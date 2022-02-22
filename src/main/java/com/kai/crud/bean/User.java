@@ -1,4 +1,4 @@
-package com.kai.curd.bean;
+package com.kai.crud.bean;
 
 /**
  * @description:
